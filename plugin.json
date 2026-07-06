@@ -6,6 +6,6 @@
   "entryPoint": "DABMusicAudioSourcePlugin",
   "apis": ["localstorage", "webview"],
   "abilities": ["audio-source", "authentication"],
-  "repository": "https://github.com/KRTirtho/spotube-plugin-dab-music",
+  "repository": "https://github.com/ferelking242/spotube-plugin-dab-music",
   "pluginApiVersion": "2.0.0"
 }
